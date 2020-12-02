@@ -123,11 +123,6 @@ header {
     margin-top: 1rem;
 }
 
-/* .hero-img img{
-    object-fit: cover;
-    height: 100%;
-} */
-
 .hero-img {
     background: url('../images/linus.png') no-repeat 50% 50% / contain;
     height: 100vh;
